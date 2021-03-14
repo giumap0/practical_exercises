@@ -18,6 +18,6 @@ For the second task, the target was selected through the table structure :
 ## Prediction exercise
 
 For the prediction exercise the predictive model used was the Ordinary Least Squares (OLS) regression model.
-This model was chosen since The OLS regression provide simple relationship between Dependent and Independents variable. 
+This model was chosen since The OLS regression provide simple relationship between Dependent and Independents variable and it was proven to be effective by the goodness indicator for the model (R-squared). 
 To see how the model was applied go to the .ipynb file.
 
