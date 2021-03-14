@@ -7,5 +7,5 @@ In this exercise a web crawler for Wikipedia was developed. From the term "Unive
 Number of references to “Universidad Carlos III de Madrid” in Wikipedia
 Number of students extracted from Wikipedia.
 
-![](/images/logo.png)
+![](/images/first.png)
 Format: ![Alt Text](url)
