@@ -1,6 +1,6 @@
-# practical_exercises
+# Practical Exercises
 
-## WEB CRAWLER EXERCISE
+## 1) WEB CRAWLER EXERCISE
 
 In this exercise a web crawler for Wikipedia was developed. From the term "Universidad Carlos III de Madrid" in Wikipedia implemented function extracts the following information:
 
@@ -15,7 +15,7 @@ For the second task, the target was selected through the table structure :
 
 ![second](https://github.com/giumap0/practical_exercises/blob/main/secondpartcraw.PNG)
 
-## Prediction exercise
+## 2)PREDICTION EXERCISE 
 
 For the prediction exercise the predictive model used was the Ordinary Least Squares (OLS) regression model.
 This model was chosen since The OLS regression provide simple relationship between Dependent and Independents variable and it was proven to be effective by the goodness indicator for the model (R-squared). 
